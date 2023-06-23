@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Maths, Stats, Javascript, Typescript, Python ...**
 
-- 📫 How to reach me **ivand890@gmail.com**
-
 - ⚡ Fun fact **I love video games.**
 
 <h3 align="left">Connect with me:</h3>
