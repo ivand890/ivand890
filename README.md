@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivand890&label=Profile%20views&color=2c9ea0&style=flat" alt="ivand890" /> </p>
 
-- 🌱 I’m currently learning **Big Data, Cloud Computing, Artificial Intelligence**
+- 🌱 I’m currently learning **How to turn ideas into reality 🤯**
 
 - 💬 Ask me about **Maths, Stats, Javascript, Typescript, Python ...**
 
