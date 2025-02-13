@@ -1,5 +1,5 @@
 <!-- New Banner Section for Eye-Catching Visual -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHN0dGQweHVrNjU5NWp2dnBpOHc1ZnM5bGp5MWRkd3l5ZnRvZzNyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" alt="Banner" style="width:100%; max-height:250px; object-fit:cover;" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHN0dGQweHVrNjU5NWp2dnBpOHc1ZnM5bGp5MWRkd3l5ZnRvZzNyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" alt="Banner" width="100%" height="250px" object-fit="cover"/>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4081;">Iván Delgado</span></h1>
 <h2 align="center">Full-Stack Developer | Scalable Web Apps with AWS & Beyond</h2>
@@ -72,5 +72,5 @@
 
 <p align="center">
   ⚡ Fun fact: <b>I love video games.</b><br>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWk1djBkcDAzbm1sdTVnZnZvZnlzbXljdDZmeHB2MXFsdTgweGE0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4NJXTcQFjRXrjRuOH/giphy.gif" alt="Gaming Fun" style="max-width:150px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWk1djBkcDAzbm1sdTVnZnZvZnlzbXljdDZmeHB2MXFsdTgweGE0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4NJXTcQFjRXrjRuOH/giphy.gif" alt="Gaming Fun" width="150px" />
 </p>
